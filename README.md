@@ -49,3 +49,16 @@ Características del Agente Reactivo:
 2) Acción: Decide la siguiente acción basándose en la elección del oponente actual.
     · Ejemplo de Lógica: Si el oponente eligió "piedra" en la última jugada, el agente podría elegir "papel" para ganar.
 3) Sin Memoria: No mantiene un historial de las elecciones pasadas.
+
+############################################# SIN HACER
+Tarea 3.25
+Codificar
+Programa a estratexia do RPS:
+https://github.com/dfleta/pedra-papel-tesoira#implementaci%C3%B3n---simulando-ia
+
+############################################# SIN HACER
+Tarea 3.26
+Codificar
+Programa a estratexia do RPSLS
+-
+https://github.com/dfleta/pedra-papel-tesoira#extensi%C3%B3n

@@ -1,5 +1,5 @@
 """ Tarefa 32
-
+z
 Escribir un programa que almacene as materias dun curso
 (por exemplo Matemáticas, Física, Química, Historia e Lingua)
 nunha lista, pregunte ao usuario a nota que sacou en cada materia,

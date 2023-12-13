@@ -7,11 +7,7 @@ def recolector (lista,funcion):
     
     lista = (1,2,3,4,5,6,7,8,9,0)
     funcion lista (*2)
-    
-    
-  
-
-
+   """ 
 def calcular_suma(n):
     resultado = n * (n + 1) // 2
     return resultado
@@ -23,4 +19,4 @@ else:
 
 
 
-
+ """

@@ -1,21 +1,10 @@
 import unittest
 
-def calcular_suma(n):
-    resultado = n * (n + 1) // 2
-    return resultado
+def test_calcular_suma_positivo(self):
+    self.assertEqual(calcular_suma(5), 15)
 
-class TestMiPrograma(unittest.TestCase):
-    def test_calcular_suma_con_n_5(self):
-        self.assertEqual(calcular_suma(5), 15)
+def test_calcular_suma_cero(self):
+    self.assertEqual(calcular_suma(0), 0)
 
-    def test_calcular_suma_con_n_10(self):
-        self.assertEqual(calcular_suma(10), 55)
-
-    def test_calcular_suma_con_n_0(self):
-        self.assertEqual(calcular_suma(0), 0)
-
-    def test_calcular_suma_con_n_1(self):
-        self.assertEqual(calcular_suma(1), 1)
-
-if __name__ == '__main__':
-    unittest.main()
+def test_calcular_suma_negativo(self):
+    self.assertEqual(calcular_suma(-5), 0)

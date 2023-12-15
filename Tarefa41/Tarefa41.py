@@ -6,9 +6,6 @@ A area do círculo é pi*r**2
 O volume do cilindro é  pi*r**2 * h
 
 Xera test uniatarios, primeiro para a función que calcula a area do circulo, e logo para o volume do cilindro.
-""" import pytest
-import math """
-
 radio_circulo = int(input('Escriba cuanto mide el radio del circulo :'))
 altura_cilindro = int(input('Escriba cuanto mide la altura del cilindro :'))
 
